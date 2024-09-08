@@ -4,7 +4,7 @@ DENM100 Extended Research Project
 
 *The following file contains code that I have personally modified based on MIMo*
 
-Environment: mimoEnv/envs/reach.py
+Environment: mimoEnv/envs/reach1.py
 
 Training code：mimoEnv/Experiment1
 
